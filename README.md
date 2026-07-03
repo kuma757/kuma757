@@ -1,16 +1,20 @@
-## Hi there 👋
+# ℹ️ 自己紹介
 
-<!--
-**kuma757/kuma757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+私はSimpliesBot TTSっていうDiscordの読み上げボットを運営しています。
+マインクラフトサーバーも運営しています。
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kuma757&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuma757&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=kuma757&theme=tokyonight)
+
+## 📫 Links
+
+- GitHub : https://github.com/kuma757
+- KumaEarth : https://kumaearth.net
+- SimpliesBot TTS : https://simpliesbot-tts.kuma757.dev　
