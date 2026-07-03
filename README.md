@@ -17,4 +17,4 @@
 
 - GitHub : https://github.com/kuma757
 - KumaEarth : https://kumaearth.net
-- SimpliesBot TTS : https://simpliesbot-tts.kuma757.dev　
+- SimpliesBot TTS : https://simpliesbot-tts.kuma757.dev
